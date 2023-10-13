@@ -60,7 +60,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-## `https://github.com/NalianAchei2020/TDD_project.git`
+`https://github.com/NalianAchei2020/TDD_project.git`
 
 ### Install
 
