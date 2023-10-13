@@ -24,7 +24,7 @@
 
 # 📖 [TDD PROJECT ] <a name="about-project"></a>
 
-**[Enumerable ]** Learning enumerable.
+**[TDD PROJECT ]** Practicing test-driven development (TDD) with ruby classes and methods .
 
 ## 🛠 Built With <a name="built-with">Ruby</a>
 
@@ -60,7 +60,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-## <https://github.com/Simpleshaikh1/Enumerable.git>
+## `https://github.com/NalianAchei2020/TDD_project.git`
 
 ### Install
 
