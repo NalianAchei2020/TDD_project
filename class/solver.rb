@@ -27,7 +27,6 @@ class Solver
   end
 end
 
-
 result = Solver.factorial(5)
 game = Solver.fizzbuzz(15)
 constring = Solver.reverse('Hello')
